@@ -131,7 +131,7 @@ background: url(./assets/asset\ 2.jpeg) ;
 .who-image{
   background-image: url(./assets/asset\ 4.jpeg);
   width: 50% !important;
-  height: 78vh;
+  height: 98vh;
   object-fit: cover !important;
 
 }
@@ -186,6 +186,8 @@ background: url(./assets/asset\ 2.jpeg) ;
 .infrastructure{
   display: flex;
   gap: 160px;
+  margin-top:8rem;
+  margin-bottom:8rem;
 }
 .infra{
   
@@ -286,7 +288,7 @@ form{
   width: 600px;
   height: 600px;
   /* border: 2px solid black; */
-  margin-left: 300px;
+  margin-left: 490px;
   
 }
 #fullname{
@@ -343,7 +345,7 @@ form{
   width: max-content;
   margin-top: 3rem;
   margin-bottom: 7rem;
-  margin-left: 16rem;
+  margin-left: 28rem;
   
 }
 .section {
