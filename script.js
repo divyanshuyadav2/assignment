@@ -18,7 +18,7 @@ $(document).ready(function() {
 
       $('html, body').animate({
         scrollTop: targetPosition
-      }, 800);
+      }, 900);
 
       $('.section').removeClass('active-section');
       targetSection.addClass('active-section');
